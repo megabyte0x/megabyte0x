@@ -1,16 +1,48 @@
 ### Hi there 👋
 
-<!--
-**Megabyte-143/Megabyte-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  I’m currently working on Projects build on Flutter and MERN.
+- 🌱  I’m currently learning Data Structures and Algorithms.
+- 👯  I’m looking to collaborate on Hackathons.
+- 🤔  I’m looking for help with Blockchain Development and dApps.
+
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Megabyte-143)
+<br> 
+
+<!-- ### Languages and Tools:
+
+<img align="left" alt="Visual Studio code" width="40px" src="https://github.com/Prernn/Prernn/blob/2f8d671674e74b2bc8fa382d8d7f520fc0083c2c/logos/vscode.png"/>
+<img align="left" alt="Visual Studio code" width="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/c++.png"/>
+<img align="left" alt="html5" width="46px" height="44px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/html5.png"/>
+<img align="left" alt="css3" width="40px" height="44px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/css3.png"/>
+<img align="left" alt="python" width="44px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/python.png"/>
+<img align="left" alt="mysql" width="35px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/mysql.png"/>
+<img align="left" alt="javascript" width="42px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/javascript.png"/>
+<img align="left" alt="nodejs" width="100px" height="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/nodejs.png"/>
+<img align="left" alt="ganache" width="36px" src="https://github.com/Prernn/Prernn/blob/f730de36298afccfc5c15a86374eab9ef6ec8992/logos/ganache.png"/>
+<img align="left" alt="truffle" width="40px" src="https://github.com/Prernn/Prernn/blob/f730de36298afccfc5c15a86374eab9ef6ec8992/logos/truffle.png"/>
+<img align="left" alt="solidity" width="30px" height="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/solidity.png"/>
+<img align="left" alt="web3" width="35px" height="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/web3.png"/>
+<img align="left" alt="metamask" width="40px" src="https://github.com/Prernn/Prernn/blob/b62317745022d7719330b4e521682a82cd9bbde1/logos/metamask.png"/>
+ -->
+<br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megabyte-143&show_icons=true&theme=dark" alt="megabyte" /></p>
+
+
+<br>
+
+### Connect with me:
+
+[<img align="left" alt="linkdin" width="26px" src="https://github.com/Prernn/Prernn/blob/d5e2aadf254baafd097ac6b93f0f35346eadf883/logos/ln-logo.png"/>][linkdin]
+[<img align="left" alt="twitter" width="32px" height="30px" src="https://github.com/Prernn/Prernn/blob/d5e2aadf254baafd097ac6b93f0f35346eadf883/logos/twitter-logo.png"/>][twitter]
+<!-- [<img align="left" alt="instagram" width="26px" src="https://github.com/Prernn/Prernn/blob/d5e2aadf254baafd097ac6b93f0f35346eadf883/logos/insta-logo.png"/>][insta] -->
+
+[linkdin]: https://www.linkedin.com/in/yash-garg-megabyte
+[twitter]: https://twitter.com/yash___garg
+
+
+
