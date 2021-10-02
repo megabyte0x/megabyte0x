@@ -7,10 +7,10 @@
 <br>
 
 
-- 🏫 __I'm an IT Student.
-- 🔭 __I’m currently working on Projects build on Flutter and MERN.
-- 🌱 __I’m currently learning Data Structures and Algorithms.
-- 🤔 __I’m looking for help with Blockchain Development and dApps.
+- 🏫 ==I'm an IT Student.
+- 🔭 ==I’m currently working on Projects build on Flutter and MERN.
+- 🌱 ==I’m currently learning Data Structures and Algorithms.
+- 🤔 ==I’m looking for help with Blockchain Development and dApps.
 
 
 <hr>
@@ -45,9 +45,9 @@
 <br>
 <h1 align="center">My Stack!</h1>
 <br>
-<h4><strong>Data Science</strong></h4>
+<h4><strong>APP & WEB DEVELOPMENT</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/>
+<!-- <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/> -->
 
 <hr>
 <br>
