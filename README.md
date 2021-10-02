@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megabyte-143&theme=react&background=00000000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Megabyte-143&theme=green_nur&border=7BDDAD"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 <br>
 <h4><strong>APP & WEB DEVELOPMENT</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Flutter-08D2E3?style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/MERN-08D2E3?style=for-the-badge&logo=MERN&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/FIREBASE-08D2E3?style=for-the-badge&logo=FIREBASE&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/AWS-08D2E3?style=for-the-badge&logo=AMAZON&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=blue"/> <img alt="TF" src="https://img.shields.io/badge/MERN-white?style=for-the-badge&logo=MERN&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/FIREBASE-white?style=for-the-badge&logo=FIREBASE&logoColor=Yellow"/> <img alt="TF" src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=AMAZON&logoColor=Yellow"/>
 
 <hr>
 <br>
