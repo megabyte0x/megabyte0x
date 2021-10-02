@@ -47,7 +47,7 @@
 <br>
 <h4><strong>APP & WEB DEVELOPMENT</strong></h4>
 
-<!-- <img alt="TF" src="https://img.shields.io/badge/Pandas-08D2E3?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-08D2E3?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-08D2E3?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-08D2E3?style=for-the-badge&logo=scipy&logoColor=white"/> -->
+<img alt="TF" src="https://img.shields.io/badge/Flutter-08D2E3?style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/MERN-08D2E3?style=for-the-badge&logo=MERN&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/FIREBASE-08D2E3?style=for-the-badge&logo=FIREBASE&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/AWS-08D2E3?style=for-the-badge&logo=AMAZON&logoColor=white"/>
 
 <hr>
 <br>
