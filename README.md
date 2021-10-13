@@ -11,6 +11,7 @@
 - 🔭 ==I’m currently working on Projects build on Flutter and MERN.
 - 🌱 ==I’m currently learning Data Structures and Algorithms.
 - 🤔 ==I’m looking for help with Blockchain Development and dApps.
+- 💬 ==Ask me about Crypto Currency.
 
 
 <hr>
