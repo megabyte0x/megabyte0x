@@ -45,9 +45,17 @@
 <br>
 <h1 align="center">My Stack!</h1>
 <br>
-<h4><strong>APP & WEB DEVELOPMENT</strong></h4>
+<h4><strong>APP DEVELOPMENT</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=Flutter&logoColor=blue"/> <img alt="TF" src="https://img.shields.io/badge/MERN-white?style=for-the-badge&logo=MERN&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/FIREBASE-white?style=for-the-badge&logo=FIREBASE&logoColor=Yellow"/> <img alt="TF" src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=AMAZON&logoColor=Yellow"/>
+<img alt="TF" src="https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=Flutter&logoColor=blue"/> <img alt="TF" src="https://img.shields.io/badge/FIREBASE-grey?style=for-the-badge&logo=FIREBASE&logoColor=Yellow"/> 
+
+<h4><strong>WEB DEVELOPMENT</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/MONGODB-grey?style=for-the-badge&logo=MONGODB&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=REACT&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green"/>  <img alt="TF" src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow"/> 
+
+<h4><strong>Languages</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/DART-grey?style=for-the-badge&logo=dart&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green"/>
 
 <hr>
 <br>
