@@ -2,9 +2,15 @@
 <h1 align="center">
     I'm <a href="https://github.com/Megabyte-143">Yash Garg<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
-<Br>
-<h1>About Me!</h1>
-<br>
+  
+ <h1>About Me!  </h1>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=buggsaff)
+
+
+
+ 
+    
 
 
 - 🏫 ==I'm an IT Student.
