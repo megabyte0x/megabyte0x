@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">
-    I'm <a href="https://github.com/Megabyte-143">Yash Garg<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+    I'm <a href="https://linktr.ee/Yash_Garg">Yash Garg<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
   
  <h1>About Me!  </h1>
