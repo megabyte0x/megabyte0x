@@ -67,7 +67,7 @@
 
 <hr>
 <br>
-<h1 align="center">Github Stats!</h1>
+<!-- <h1 align="center">Github Stats!</h1>
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megabyte-143&langs_count=3&theme=react&bg_color=00000000" alt="Megabyte :: Top Langs" /></p>
@@ -76,7 +76,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Megabyte-143&show_icons=true&theme=dark" alt="Megabyte's Github Stats" />
 
 <br>
-<hr>
+<hr> -->
 <br>
 <h1 align="center">Get in Touch.</h1>
 <br>
