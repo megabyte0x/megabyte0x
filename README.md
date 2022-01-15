@@ -14,8 +14,8 @@
 
 
 - 🏫 ==I'm an IT Student.
-- 🔭 ==I’m currently working on Projects build on Flutter and MERN.
-- 🌱 ==I’m currently learning Data Structures and Algorithms.
+- 🔭 ==I’m currently working on Projects build which will save TIME.
+- 🌱 ==I’m currently learning Data Structures and Algorithms, and BLockchain Dev.
 - 🤔 ==I’m looking for help with Blockchain Development and dApps.
 - 💬 ==Ask me about Crypto Currency.
 
@@ -43,11 +43,9 @@
   <a href="https://github.com/Megabyte-143/your_cart.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=your_cart&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
     <a href="https://github.com/Megabyte-143/Zomato-Master.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=Zomato-Master&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
         <a href="https://github.com/Megabyte-143/chatting_karlo.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=chatting_karlo&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<!--   <a href="https://github.com/Megabyte-143/my_bazaar.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=my_bazaar&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a> -->
-  
- 
-<!--   <a href="https://github.com/Aashrit-Garg/CarpetStory-Android"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=CarpetStory-Android&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/Aashrit-Garg/TicTacToe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=TicTacToe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a> -->
+  <a href="https://github.com/Megabyte-143/Liberdeck"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=Liberdeck&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Megabyte-143/instagram_clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=instagram_clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Megabyte-143/nft-market-place"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=nft-market-place&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 
 <hr>
 <br>
