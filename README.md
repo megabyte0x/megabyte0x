@@ -41,7 +41,7 @@
 
 <h4><strong>LANGUAGES</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/DART-grey?style=for-the-badge&logo=dart&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green"/>
+<img alt="TF" src="https://img.shields.io/badge/DART-grey?style=for-the-badge&logo=dart&logoColor=blue"/> <img alt="TF" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green"/>
 
 <hr>
 
