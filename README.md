@@ -3,6 +3,8 @@
     I'm <a href="https://linktr.ee/Yash_Garg">Yash Garg<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
   
+<a href="https://app.daily.dev/megabyte"><img src="https://api.daily.dev/devcards/a3ab141ee1184806a55c34185f9dbe08.png?r=q25" width="400" alt="Yash Garg's Dev Card"/></a>
+  
  <h1>About Me!</h1>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Megabyte-143)
