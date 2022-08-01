@@ -52,11 +52,10 @@
 <br>
 <p align="left">
     <a href="https://github.com/Megabyte-143/certified_cliche.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=certified_cliche&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-  <a href="https://github.com/Megabyte-143/your_cart.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=your_cart&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+  <a href="https://github.com/Megabyte-143/stark-protocol"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=stark-protocol&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
     <a href="https://github.com/Megabyte-143/web3_forum"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=web3_forum&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
         <a href="https://github.com/Megabyte-143/quiz_lootbox"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=quiz_lootbox&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
   <a href="https://github.com/Megabyte-143/megabyte_domain"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=megabyte_domain&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-    <a href="https://github.com/Megabyte-143/instagram_clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=instagram_clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
         <a href="https://github.com/Megabyte-143/nft-market-place"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Megabyte-143&repo=nft-market-place&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 
 <hr>
