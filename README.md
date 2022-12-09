@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">
-    I'm <a href="https://linktr.ee/Yash_Garg">Yash Garg<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+    I'm <a href="https://megabyte0x.arweave.dev/">Yash Garg<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
   
 <a href="https://app.daily.dev/0xYash"><img src="https://api.daily.dev/devcards/a3ab141ee1184806a55c34185f9dbe08.png?r=349" width="400" alt="Yash Garg's Dev Card"/></a>
