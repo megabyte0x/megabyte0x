@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=megabyte0x&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Megabyte's Github Stats" width="45%"/>
     </p>
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=megabyte0x&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=megabyte0x&theme=green" width="100%"/>
 </p>
 
 <hr>
