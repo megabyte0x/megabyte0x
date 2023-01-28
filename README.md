@@ -65,7 +65,7 @@
 <h1 align="center">Get in Touch.</h1>
 <br>
 <p align="center">
-<!-- <a href="https://wa.me/91843967657"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whasapp&logoColor=white"/><a> -->
+<!-- <a href="https://wa.me/91843967657"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whasapp&logoColor=white"><a> -->
         <a href="https://www.linkedin.com/in/megabyte0x/"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> 
             <a href="mailto:yashygkf@gmail.com"><img alt="TF" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/megabyte0x"><img alt="TF" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a>
