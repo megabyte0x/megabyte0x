@@ -9,11 +9,10 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=megabyte0x)
 
-- 🏫 I'm an IT Student.
-- 🔭 I’m currently working on Projects build which will save TIME.
-- 🌱 I’m currently learning Data Structures and Algorithms, and BLockchain Dev.
-- 🤔 I’m looking for help with Blockchain Development and dApps.
-- 💬 Ask me about Crypto Currency.
+- Solidity Dev
+- Member in @Developer DAO
+- Polygon Adovocates
+
 
 <hr>
 <br>
@@ -67,7 +66,7 @@
 <p align="center">
 <!-- <a href="https://wa.me/91843967657"><img alt="TF" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whasapp&logoColor=white"><a> -->
         <a href="https://www.linkedin.com/in/megabyte0x/"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> 
-            <a href="mailto:yashygkf@gmail.com"><img alt="TF" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+            <a href="mailto:megabyte0x@gmail.com"><img alt="TF" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/megabyte0x"><img alt="TF" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a>
     
 </p>
