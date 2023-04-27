@@ -10,8 +10,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=megabyte0x)
 
 - Solidity Dev
-- Member in @Developer DAO
-- Polygon Adovocates
+- Member in Developer DAO
+- Polygon Advocates
 
 
 <hr>
