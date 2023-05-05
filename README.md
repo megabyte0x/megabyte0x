@@ -9,8 +9,9 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=megabyte0x)
 
+- Junior Blockchain Engineer [@Biconomy](https://www.biconomy.io/)
 - Solidity Dev
-- Member in Developer DAO
+- Member @Developer DAO
 - Polygon Advocates
 
 
