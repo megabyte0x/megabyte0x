@@ -9,7 +9,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=megabyte0x)
 
-- Block-Dev Dev
+- Block-End Dev
 - Member @Developer DAO
 - Polygon Advocates
 
