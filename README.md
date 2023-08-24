@@ -1,6 +1,6 @@
 # gm! I'm [Megabyte](https://megabyte0x.arweave.dev/)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=megabyte0x)
+*A guy with curiosity about latest tech and aims to save this generation's time.*
 
 - Junior Blockchain Engineer [@Biconomy](https://twitter.com/biconomy)
 - Technical Coordinator [@TheGraphIndia](https://twitter.com/thegraphindia)
