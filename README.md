@@ -2,9 +2,25 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=megabyte0x)
 
-- Junior Blockchain Engineer @Biconomy
-- Technical Coordinator @TheGraphIndia
-- Developer @HyperlaneIndia
+- Junior Blockchain Engineer [@Biconomy](https://twitter.com/biconomy)
+- Technical Coordinator [@TheGraphIndia](https://twitter.com/thegraphindia)
+- Developer [@HyperlaneIndia](https://twitter.com/hyperlaneindia)
+
+## Some of my Projects
+
+[![Pow-rd](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=PoW-rd&theme=dark&show_icons=true")](https://github.com/megabyte0x/PoW-rd.git)
+[![Stark Protocol](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=stark-protocol&theme=dark&show_icons=true&bg_color=00000000)](https://github.com/megabyte0x/stark-protocol)
+[![Certified Cliche](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=certified_cliche&theme=dark&show_icons=true&bg_color=00000000)](https://github.com/megabyte0x/certified_cliche.git)
+
+## Work Experience
+
+<!-- <details>
+<summary>Developer Relations Engineer at Web3Auth 🧑‍💻</summary>
+
+---
+
+As a Developer Relations Engineer at Web3Auth, I had the opportunity to utilize my exceptional skillset and industry experience to build, promote and maintain the company's developer portal, SDKs documentation, sample code, and developer community.
+</details> -->
 
 ## Github Stats
 
@@ -22,12 +38,6 @@
 ![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow)
 ![JS](https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green)
 ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green)
-
-## Some of my Projects
-
-[![Pow-rd](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=PoW-rd&theme=dark&show_icons=true")](https://github.com/megabyte0x/PoW-rd.git)
-[![Stark Protocol](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=stark-protocol&theme=dark&show_icons=true&bg_color=00000000)](https://github.com/megabyte0x/stark-protocol)
-[![Certified Cliche](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=certified_cliche&theme=dark&show_icons=true&bg_color=00000000)](https://github.com/megabyte0x/certified_cliche.git)
 
 ## Get in Touch
 
