@@ -14,8 +14,12 @@
 
 ## Work Experience
 
+- ● -> Ongoing
+- ◐ -> Volunteering
+- ◯ -> Completed
+
 <details>
-<summary>Junior Blockchain Developer at Biconomy 🧑‍💻</summary>
+<summary>Junior Blockchain Developer at Biconomy ●</summary>
 
 ---
 
@@ -26,7 +30,7 @@
 </details>
 
 <details>
-<summary>Technical Coordinator at The Graph India</summary>
+<summary>Technical Coordinator at The Graph India ●</summary>
 
 ---
 
@@ -37,7 +41,7 @@
 </details>
 
 <details>
-<summary>Developer at Hyperlane India</summary>
+<summary>Developer at Hyperlane India ●</summary>
 
 ---
 
@@ -48,7 +52,7 @@
 </details>
 
 <details>
-<summary>SDE Intern at Phyllo</summary>
+<summary>SDE Intern at Phyllo ◯</summary>
 
 ---
 
@@ -58,7 +62,7 @@
 </details>
 
 <details>
-<summary>Blockchain Development Intern at Whrrl</summary>
+<summary>Blockchain Development Intern at Whrrl ◯</summary>
 
 ---
 
@@ -68,7 +72,7 @@
 </details>
 
 <details>
-<summary>Mobile Application Developer at Teksna</summary>
+<summary>Mobile Application Developer at Teksna ◯</summary>
 
 ---
 
@@ -78,7 +82,7 @@
 </details>
 
 <details>
-<summary>SDE Intern at EduTekZila</summary>
+<summary>SDE Intern at EduTekZila ◯</summary>
 
 ---
 
