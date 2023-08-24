@@ -96,6 +96,22 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=megabyte0x&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
+<!--START_SECTION:waka-->
+
+```txt
+From: 16 August 2023 - To: 23 August 2023
+
+Total Time: 23 hrs 38 mins
+
+TypeScript   18 hrs 22 mins  ███████████████████▒░░░░░   77.72 %
+Solidity     1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+JavaScript   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Go           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+```
+
+<!--END_SECTION:waka-->
+
 ## My Stack
 
 ![Solidity](https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green)
