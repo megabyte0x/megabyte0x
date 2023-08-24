@@ -14,13 +14,79 @@
 
 ## Work Experience
 
-<!-- <details>
-<summary>Developer Relations Engineer at Web3Auth 🧑‍💻</summary>
+<details>
+<summary>Junior Blockchain Developer at Biconomy 🧑‍💻</summary>
 
 ---
 
-As a Developer Relations Engineer at Web3Auth, I had the opportunity to utilize my exceptional skillset and industry experience to build, promote and maintain the company's developer portal, SDKs documentation, sample code, and developer community.
-</details> -->
+- Integration of new chains within the Biconomy’s mexa-sdk.
+- Integration of new products within the Biconomy's AA SDK.
+- Improving the documentation.
+  
+</details>
+
+<details>
+<summary>Technical Coordinator at The Graph India</summary>
+
+---
+
+- Growing The Graph Protocol Ecosystem in INDIA by organising workshops and various programs to nourish the community of Graph Protocol in INDIA.
+- Delivering Technical Workshops to Graph Advocates around Graph Protocol.
+- Creating Content around The Graph Protocol.
+
+</details>
+
+<details>
+<summary>Developer at Hyperlane India</summary>
+
+---
+
+- Deployed Hyperlane on more than 6 chains.
+- Gave workshops and mentored hackers.
+- Reviewed and Tested the Documentation.
+
+</details>
+
+<details>
+<summary>SDE Intern at Phyllo</summary>
+
+---
+
+- Building Indexers for fetching requried data from different Blockchains.
+- Building 10+ APIs provide reputation data of a User, DAO, and many more.
+
+</details>
+
+<details>
+<summary>Blockchain Development Intern at Whrrl</summary>
+
+---
+
+- Natively implemented Wallet Connect on the DApp for keeping the minimum number of libraries.
+- Integrated deployed smart contracts with Front-end.
+
+</details>
+
+<details>
+<summary>Mobile Application Developer at Teksna</summary>
+
+---
+
+- Created the Authentication API and saving the data of the users in a separate database.
+- Design, Developed and Implemented database maintaining 2 different roles.
+
+</details>
+
+<details>
+<summary>SDE Intern at EduTekZila</summary>
+
+---
+
+- Design and Built the Back-end maintaining 3 different roles.
+- Developed more than 10 UI pages.
+- Integrated the front-end and back-end
+
+</details>
 
 ## Github Stats
 
@@ -32,9 +98,9 @@ As a Developer Relations Engineer at Web3Auth, I had the opportunity to utilize 
 ![NodeJs](https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green)
 ![TypeScript](https://img.shields.io/badge/TS-grey?style=for-the-badge&logo=typescript&logoColor=Green)
 ![Express](https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green)
+![MongoDB](https://img.shields.io/badge/MONGODB-grey?style=for-the-badge&logo=MONGODB&logoColor=Green)
 ![Firebase](https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql&logoColor=Yellow)
-![MongoDB](https://img.shields.io/badge/MONGODB-grey?style=for-the-badge&logo=MONGODB&logoColor=Green)
 ![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow)
 ![JS](https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green)
 ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus&logoColor=Green)
