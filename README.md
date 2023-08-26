@@ -96,6 +96,7 @@
 ## Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=megabyte0x&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte0x&layout=compact&theme=dark)
 
 <!--START_SECTION:waka-->
 
