@@ -102,15 +102,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Total Time: 8 hrs 41 mins
+Total Time: 5 hrs 48 mins
 
-Solidity     7 hrs 21 mins   █████████████████████░░░░   84.59 %
-TypeScript   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Ezhil        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Solidity     4 hrs 38 mins   ████████████████████░░░░░   79.80 %
+TypeScript   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Makefile     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
