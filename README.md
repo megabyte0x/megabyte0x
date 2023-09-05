@@ -102,13 +102,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
-Total Time: 38 mins
+Total Time: 0 secs
 
-TypeScript   33 mins         █████████████████████▒░░░   85.78 %
-Solidity     5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
