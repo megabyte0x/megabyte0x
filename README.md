@@ -102,14 +102,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Total Time: 22 mins
+Total Time: 28 mins
 
-JSON         16 mins         ██████████████████▓░░░░░░   74.01 %
-Markdown     4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Solidity     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON         16 mins         ██████████████▒░░░░░░░░░░   56.69 %
+Solidity     6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+Markdown     4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+TypeScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
