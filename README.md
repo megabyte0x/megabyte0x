@@ -3,7 +3,7 @@
 *A guy with curiosity about latest tech and aims to save this generation's time.*
 
 - Junior Blockchain Engineer [@Biconomy](https://twitter.com/biconomy)
-- Technical Coordinator [@TheGraphIndia](https://twitter.com/thegraphindia)
+- Dev-Success [@TheGraphIndia](https://twitter.com/thegraphindia)
 - Developer [@HyperlaneIndia](https://twitter.com/hyperlaneindia)
 
 ## Some of my Projects
