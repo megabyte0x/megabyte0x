@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>Technical Coordinator at The Graph India ●</summary>
+<summary>Developer Success at The Graph India ●</summary>
 
 ---
 
