@@ -102,15 +102,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-Total Time: 12 hrs
+Total Time: 18 hrs 2 mins
 
-Solidity     6 hrs 6 mins    ████████████▓░░░░░░░░░░░░   50.95 %
-TypeScript   2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-Bash         1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Makefile     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Solidity     12 hrs 6 mins   ████████████████▓░░░░░░░░   67.11 %
+TypeScript   2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Bash         1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Makefile     1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
