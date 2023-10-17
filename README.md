@@ -2,7 +2,7 @@
 
 *A guy with curiosity about latest tech and aims to save this generation's time.*
 
-- Junior Blockchain Engineer [@Biconomy](https://twitter.com/biconomy)
+- Polygon Advocate [@PolygonLabs](twitter.com/0xPolygonLabs)
 - Dev-Success [@TheGraphIndia](https://twitter.com/thegraphindia)
 - Developer [@HyperlaneIndia](https://twitter.com/hyperlaneindia)
 
@@ -20,19 +20,9 @@
 - ◐ -> Volunteering
 - ◯ -> Completed
 
-<details>
-<summary>Junior Blockchain Developer at Biconomy ●</summary>
-
----
-
-- Integration of new chains within the Biconomy’s mexa-sdk.
-- Integration of new products within the Biconomy's AA SDK.
-- Improving the documentation.
-  
-</details>
 
 <details>
-<summary>Developer Success at The Graph India ●</summary>
+<summary>Developer Success at The Graph India ● </summary>
 
 ---
 
@@ -51,6 +41,17 @@
 - Gave workshops and mentored hackers.
 - Reviewed and Tested the Documentation.
 
+</details>
+
+<details>
+<summary>Junior Blockchain Developer at Biconomy ◯ </summary>
+
+---
+
+- Integration of new chains within the Biconomy’s mexa-sdk.
+- Integration of new products within the Biconomy's AA SDK.
+- Improving the documentation.
+  
 </details>
 
 <details>
