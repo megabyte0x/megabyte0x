@@ -10,7 +10,8 @@
 
 [![Pow-rd](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=PoW-rd&theme=dark&show_icons=true")](https://github.com/megabyte0x/PoW-rd.git)
 [![Stark Protocol](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=stark-protocol&theme=dark&show_icons=true)](https://github.com/megabyte0x/stark-protocol)
-[![Raffle Game](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=raffle-game&theme=dark&show_icons=true)](https://github.com/megabyte0x/raffle-game.git)
+[![CrossERC721](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=CrossERC721&theme=dark&show_icons=true)](https://github.com/megabyte0x/CrossERC721)
+[![zkMystics](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=ethonline23_project&theme=dark&show_icons=true)](https://github.com/megabyte0x/ethonline23_project)
 [![Certified Cliche](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=certified_cliche&theme=dark&show_icons=true)](https://github.com/megabyte0x/certified_cliche.git)
 [![Advocate Quest](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=The-Quest-NFTs&theme=dark&show_icons=true)](https://github.com/megabyte0x/The-Quest-NFTs.git)
 
