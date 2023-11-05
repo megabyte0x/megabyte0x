@@ -18,7 +18,7 @@
 - ● -> Ongoing
 - ◐ -> Volunteering
 - ◯ -> Completed
-- 
+  
 <details>
 <summary>Polygon Advocate at Polygon Labs ◐ </summary>
 
