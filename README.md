@@ -3,8 +3,6 @@
 *A guy with curiosity about latest tech and aims to save this generation's time.*
 
 - Polygon Advocate [@PolygonLabs](twitter.com/0xPolygonLabs)
-- Dev-Success [@TheGraphIndia](https://twitter.com/thegraphindia)
-- Developer [@HyperlaneIndia](https://twitter.com/hyperlaneindia)
 
 ## Some of my Projects
 
@@ -20,7 +18,17 @@
 - ● -> Ongoing
 - ◐ -> Volunteering
 - ◯ -> Completed
+- 
+<details>
+<summary>Polygon Advocate at Polygon Labs ◐ </summary>
 
+---
+
+- Created Technical Blogs and Repos to onoboard devs into the Polygon Ecosystem.
+- Represented Polygon at several meetups IRL and online. 
+- Contributed in zkThon by reviewing 65+ PRs and idThon by creating the tutorial repos.
+
+</details>
 
 <details>
 <summary>Developer Success at The Graph India ● </summary>
