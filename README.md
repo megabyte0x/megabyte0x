@@ -113,15 +113,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
-Total Time: 1 hr 24 mins
+Total Time: 1 hr 58 mins
 
-Markdown     39 mins         ███████████▓░░░░░░░░░░░░░   46.83 %
-Bash         22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-Other        14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-Rust         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown          39 mins         ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Bash              22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+Other             14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Rust              12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Makefile          12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
 ```
 
 <!--END_SECTION:waka-->
