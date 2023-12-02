@@ -9,7 +9,6 @@
 [![Pow-rd](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=PoW-rd&theme=dark&show_icons=true")](https://github.com/megabyte0x/PoW-rd.git)
 [![Stark Protocol](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=stark-protocol&theme=dark&show_icons=true)](https://github.com/megabyte0x/stark-protocol)
 [![MonaLizardl](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pratham-19&repo=ethIstanbul&theme=dark&show_icons=true)](https://github.com/Pratham-19/ethIstanbul)
-[![ZK-Trusted Ledger](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pranshurastogi&repo=zkhack-zk-trust-ledger&theme=dark&show_icons=true)](https://github.com/pranshurastogi/zkhack-zk-trust-ledger)
 [![zkMystics](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=ethonline23_project&theme=dark&show_icons=true)](https://github.com/megabyte0x/ethonline23_project)
 [![Certified Cliche](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=certified_cliche&theme=dark&show_icons=true)](https://github.com/megabyte0x/certified_cliche.git)
 [![Advocate Quest](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=The-Quest-NFTs&theme=dark&show_icons=true)](https://github.com/megabyte0x/The-Quest-NFTs.git)
