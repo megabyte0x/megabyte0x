@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>Developer at Hyperlane India ●</summary>
+<summary>Developer at Hyperlane India ◯</summary>
 
 ---
 
