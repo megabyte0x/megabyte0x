@@ -112,15 +112,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Total Time: 25 hrs 59 mins
+Total Time: 23 hrs 10 mins
 
-Solidity     19 hrs 12 mins  ██████████████████▒░░░░░░   73.94 %
-Makefile     3 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Markdown     2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Bash         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Solidity     16 hrs 30 mins  █████████████████▓░░░░░░░   71.24 %
+Makefile     3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Markdown     2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
