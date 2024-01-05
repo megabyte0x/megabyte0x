@@ -1,4 +1,4 @@
-# gm! I'm [Megabyte](https://megabyte0x.arweave.dev/)
+# gm! I'm [Megabyte](https://megabyte0x.xyz/)
 
 *A guy with curiosity about latest tech and aims to save this generation's time.*
 
