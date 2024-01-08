@@ -113,15 +113,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
-Total Time: 7 hrs 59 mins
+Total Time: 9 hrs 21 mins
 
-TypeScript   3 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.39 %
-Solidity     3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.62 %
-Markdown     38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Makefile     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   4 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.75 %
+Solidity     3 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.88 %
+Markdown     42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
