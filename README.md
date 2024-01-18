@@ -113,15 +113,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Total Time: 15 hrs 47 mins
+Total Time: 20 hrs 16 mins
 
-Solidity     8 hrs 13 mins   █████████████░░░░░░░░░░░░   52.08 %
-Markdown     3 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-TypeScript   2 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Solidity     10 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.41 %
+TypeScript   3 hrs 48 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+Markdown     3 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+JSON         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
