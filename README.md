@@ -1,6 +1,6 @@
 # gm! I'm [Megabyte](https://megabyte0x.xyz/)
 
-*A guy with curiosity about latest tech and aims to save this generation's time.*
+*A guy curious about the latest tech and aims to save this generation's time.*
 
 - Polygon Advocate [@PolygonLabs](twitter.com/0xPolygonLabs)
 
@@ -19,26 +19,37 @@
 - ● -> Ongoing
 - ◐ -> Volunteering
 - ◯ -> Completed
+
+<details>
+<summary> DevRel at AARC ● </summary>
+
+---
+
+- Building documentation for the SDK.
+- Working with the Dev Team to improve the DevX.
+- Creating example repos as code snippets for the devs.
+
+</details>
   
 <details>
 <summary>Polygon Advocate at Polygon Labs ◐ </summary>
 
 ---
 
-- Created Technical Blogs and Repos to onoboard devs into the Polygon Ecosystem.
+- I created technical blogs and repos to onboard devs into the Polygon Ecosystem.
 - Represented Polygon at several meetups IRL and online. 
-- Contributed in zkThon by reviewing 65+ PRs and idThon by creating the tutorial repos.
+- Contributed to zkThon by reviewing 65+ PRs and idThon by creating tutorial reports.
 
 </details>
 
 <details>
-<summary>Developer Success at The Graph India ● </summary>
+<summary>Developer Success at The Graph India ◯ </summary>
 
 ---
 
-- Growing The Graph Protocol Ecosystem in INDIA by organising workshops and various programs to nourish the community of Graph Protocol in INDIA.
+- Growing The Graph Protocol Ecosystem in INDIA by organizing workshops and various programs to nourish the community of Graph Protocol in INDIA.
 - Delivering Technical Workshops to Graph Advocates around Graph Protocol.
-- Creating Content around The Graph Protocol.
+- Creating Content Around The Graph Protocol.
 
 </details>
 
@@ -69,8 +80,8 @@
 
 ---
 
-- Building Indexers for fetching requried data from different Blockchains.
-- Building 10+ APIs provide reputation data of a User, DAO, and many more.
+- Building indexers to fetch required data from different blockchains.
+- Building 10+ APIs provides reputation data of a User, DAO, and many more.
 
 </details>
 
@@ -79,7 +90,7 @@
 
 ---
 
-- Natively implemented Wallet Connect on the DApp for keeping the minimum number of libraries.
+- Natively implemented Wallet Connect on the DApp to keep the minimum number of libraries.
 - Integrated deployed smart contracts with Front-end.
 
 </details>
@@ -89,8 +100,8 @@
 
 ---
 
-- Created the Authentication API and saving the data of the users in a separate database.
-- Design, Developed and Implemented database maintaining 2 different roles.
+- Created the Authentication API and saved the users' data in a separate database.
+- Designed, Developed, and Implemented a database, maintaining 2 different roles.
 
 </details>
 
@@ -99,7 +110,7 @@
 
 ---
 
-- Design and Built the Back-end maintaining 3 different roles.
+- Designed and Built the Back-end, maintaining 3 different roles.
 - Developed more than 10 UI pages.
 - Integrated the front-end and back-end
 
