@@ -125,15 +125,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Total Time: 8 hrs
+Total Time: 5 hrs 32 mins
 
-TypeScript   4 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.52 %
-MDX          1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Markdown     1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-JSON         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Lua          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+TypeScript   2 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   39.00 %
+MDX          1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+Markdown     1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+JSON         47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Lua          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
