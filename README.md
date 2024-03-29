@@ -2,8 +2,8 @@
 
 *A guy curious about the latest tech and aims to save this generation's time.*
 
-- DevRel [@Aarc](twitter.com/0xAarc)
-- Polygon Advocate [@PolygonLabs](twitter.com/0xPolygonLabs)
+- DevRel [@Aarc](https://twitter.com/0xAarc)
+- Polygon Advocate [@PolygonLabs](https://twitter.com/0xPolygonLabs)
 
 ## Some of my Projects
 
