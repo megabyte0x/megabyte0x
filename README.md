@@ -2,7 +2,7 @@
 
 *A guy curious about the latest tech and aims to save this generation's time.*
 
-- DevRel [@Aarc](https://twitter.com/0xAarc)
+- Contrbut000r [@0rbitco](https://twitter.com/0rbitco)
 - Polygon Advocate [@PolygonLabs](https://twitter.com/0xPolygonLabs)
 
 ## Some of my Projects
@@ -22,7 +22,7 @@
 - ◯ -> Completed
 
 <details>
-<summary> DevRel at AARC ● </summary>
+<summary> DevRel at AARC ◯ </summary>
 
 ---
 
