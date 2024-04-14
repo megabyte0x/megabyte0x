@@ -125,15 +125,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 2 hrs 50 mins
+Total Time: 3 hrs 11 mins
 
-MDX          55 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 %
-Other        38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-JavaScript   35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Text         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Bash         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Other        59 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+MDX          55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+JavaScript   35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+Text         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Bash         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 ```
 
 <!--END_SECTION:waka-->
