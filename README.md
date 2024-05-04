@@ -125,15 +125,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2024 - To: 02 May 2024
+From: 26 April 2024 - To: 03 May 2024
 
-Total Time: 14 hrs 45 mins
+Total Time: 14 hrs 42 mins
 
-MDX           9 hrs 15 mins   ███████████████▓░░░░░░░░░   62.77 %
-Lua           4 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+MDX           9 hrs 15 mins   ███████████████▓░░░░░░░░░   62.99 %
+Lua           4 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
 Other         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-TypeScript    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JSON          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
