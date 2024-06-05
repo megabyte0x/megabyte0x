@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2024 - To: 03 June 2024
+From: 28 May 2024 - To: 04 June 2024
 
-Total Time: 4 hrs 49 mins
+Total Time: 4 hrs 41 mins
 
-Lua           2 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.68 %
-JavaScript    53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-TypeScript    42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-MDX           34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Bash          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Lua           2 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.04 %
+JavaScript    45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+TypeScript    42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+MDX           34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Bash          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
 ```
 
 <!--END_SECTION:waka-->
