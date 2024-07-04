@@ -73,15 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2024 - To: 02 July 2024
+From: 26 June 2024 - To: 03 July 2024
 
-Total Time: 4 hrs 37 mins
+Total Time: 2 hrs 45 mins
 
-Markdown     2 hrs 3 mins    ███████████░░░░░░░░░░░░░░   44.37 %
-Lua          1 hr 19 mins    ███████░░░░░░░░░░░░░░░░░░   28.63 %
-MDX          35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-JSON         32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Markdown     1 hr 40 mins    ███████████████▒░░░░░░░░░   60.70 %
+Lua          54 mins         ████████▒░░░░░░░░░░░░░░░░   33.01 %
+JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
