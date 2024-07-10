@@ -2,7 +2,7 @@
 
 *A guy curious about the latest tech and aims to save this generation's time.*
 
-- Contrbut000r [@0rbitco](https://twitter.com/0rbitco)
+- Contribut000r [@0rbitco](https://twitter.com/0rbitco)
 
 ## Some of my Projects
 
