@@ -73,11 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
-Total Time: 0 secs
+Total Time: 19 mins
 
-JavaScript   0 secs          █████████████████████████   100.00 %
+TypeScript   14 mins         ███████████████████▒░░░░░   77.39 %
+GraphQL      3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
