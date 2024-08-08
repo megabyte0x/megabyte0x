@@ -73,14 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2024 - To: 06 August 2024
+From: 31 July 2024 - To: 07 August 2024
 
-Total Time: 19 mins
+Total Time: 27 mins
 
-TypeScript   14 mins         ███████████████████▒░░░░░   77.39 %
-GraphQL      3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript   14 mins         █████████████▒░░░░░░░░░░░   52.86 %
+Lua          8 mins          ████████░░░░░░░░░░░░░░░░░   31.70 %
+GraphQL      3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
