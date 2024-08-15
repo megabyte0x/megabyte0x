@@ -73,11 +73,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Total Time: 8 mins
+Total Time: 17 mins
 
-Lua   8 mins          █████████████████████████   100.00 %
+Markdown     9 mins          █████████████░░░░░░░░░░░░   51.51 %
+JavaScript   8 mins          ████████████░░░░░░░░░░░░░   48.49 %
 ```
 
 <!--END_SECTION:waka-->
