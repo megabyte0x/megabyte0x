@@ -73,14 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-Total Time: 1 hr 27 mins
+Total Time: 55 mins
 
-Lua          1 hr 14 mins    █████████████████████░░░░   84.60 %
-JavaScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Markdown     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Lua          42 mins         ███████████████████▒░░░░░   77.12 %
+JavaScript   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Markdown     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
