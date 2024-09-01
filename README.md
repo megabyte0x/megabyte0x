@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2024 - To: 30 August 2024
+From: 24 August 2024 - To: 31 August 2024
 
-Total Time: 37 hrs 37 mins
+Total Time: 31 hrs 1 min
 
-Lua          30 hrs 46 mins  ████████████████████▒░░░░   81.79 %
-Markdown     5 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Text         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Lua          25 hrs 4 mins   ████████████████████▒░░░░   80.83 %
+Markdown     4 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+Text         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
