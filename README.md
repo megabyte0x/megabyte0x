@@ -73,14 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
 Total Time: 59 mins
 
-Lua     43 mins         ██████████████████▒░░░░░░   73.22 %
-MDX     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Other   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-JSON    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Lua          43 mins         ██████████████████▒░░░░░░   73.17 %
+MDX          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Other        6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
