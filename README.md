@@ -73,11 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Total Time: 0 secs
+Total Time: 47 mins
 
-JavaScript   0 secs          █████████████████████████   100.00 %
+Lua        43 mins         ███████████████████████░░   92.15 %
+Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
