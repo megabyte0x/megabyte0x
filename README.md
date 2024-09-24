@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2024 - To: 22 September 2024
+From: 16 September 2024 - To: 23 September 2024
 
-Total Time: 29 hrs 4 mins
+Total Time: 27 hrs 49 mins
 
-Solidity      16 hrs 53 mins  ██████████████▓░░░░░░░░░░   58.10 %
-TypeScript    4 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-Makefile      1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Markdown      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Bash          1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Solidity      16 hrs 59 mins  ███████████████▒░░░░░░░░░   61.05 %
+TypeScript    3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Makefile      1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Markdown      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Bash          1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
