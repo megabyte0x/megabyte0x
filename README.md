@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 7 hrs 33 mins
+Total Time: 6 hrs 3 mins
 
-Solidity     6 hrs 12 mins   ████████████████████▓░░░░   82.08 %
-MDX          1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Solidity     4 hrs 28 mins   ██████████████████▒░░░░░░   73.83 %
+MDX          1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
