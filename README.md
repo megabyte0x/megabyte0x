@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Total Time: 9 hrs 18 mins
+Total Time: 6 hrs 7 mins
 
-Lua          2 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-MDX          1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-YAML         1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-JSON         1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-TypeScript   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Lua          3 hrs 19 mins   █████████████▓░░░░░░░░░░░   54.28 %
+YAML         45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Bash         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+JavaScript   34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+MDX          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
