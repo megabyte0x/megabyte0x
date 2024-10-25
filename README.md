@@ -73,15 +73,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
-Total Time: 2 hrs 24 mins
+Total Time: 1 hr 53 mins
 
-JavaScript    57 mins         ██████████░░░░░░░░░░░░░░░   39.91 %
-Solidity      35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-TypeScript    16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Git Config    15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-TOML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JavaScript   57 mins         ████████████▓░░░░░░░░░░░░   50.67 %
+Solidity     35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+Git Config   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+TOML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
