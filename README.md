@@ -4,21 +4,22 @@
 
 - Contribut000r [@0rbitco](https://twitter.com/0rbitco)
 
-## Some of my Projects
-
-[![UniFy](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xlpircy&repo=unify&theme=dark&show_icons=true)](https://github.com/0xlpircy/unify)
-[![zkMystics](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=ethonline23_project&theme=dark&show_icons=true)](https://github.com/megabyte0x/ethonline23_project)
-[![MonaLizardl](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pratham-19&repo=ethIstanbul&theme=dark&show_icons=true)](https://github.com/Pratham-19/ethIstanbul)
-[![Stark Protocol](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=stark-protocol&theme=dark&show_icons=true)](https://github.com/megabyte0x/stark-protocol)
-[![Pow-rd](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=PoW-rd&theme=dark&show_icons=true")](https://github.com/megabyte0x/PoW-rd.git)
-[![Certified Cliche](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=certified_cliche&theme=dark&show_icons=true)](https://github.com/megabyte0x/certified_cliche.git)
-
-
 ## Work Experience
 
 - ● -> Ongoing
 - ◐ -> Volunteering
 - ◯ -> Completed
+
+<details>
+<summary> Contribut000r at 0rbit ● </summary>
+
+---
+
+- Designing the core architecture of the protocol.
+- Building the Dev Docs, Tutorials and dev focused campaigns. 
+- Managing a team of 4 from building social media post to test applications to blog writings.
+
+</details>
 
 <details>
 <summary> DevRel at AARC ◯ </summary>
