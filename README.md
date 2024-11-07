@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 1 hr 36 mins
+Total Time: 2 hrs 6 mins
 
-Solidity     1 hr 30 mins    ███████████████████████▒░   93.56 %
-Makefile     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Solidity     1 hr 48 mins    █████████████████████▒░░░   85.26 %
+JSON         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+Makefile     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
