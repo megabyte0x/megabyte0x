@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
-Total Time: 25 hrs 46 mins
+Total Time: 8 hrs 22 mins
 
-Solidity     17 hrs 38 mins  █████████████████░░░░░░░░   68.43 %
-JavaScript   2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Makefile     1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Markdown     1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Bash         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Solidity     4 hrs 41 mins   ██████████████░░░░░░░░░░░   56.09 %
+Markdown     1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+JavaScript   56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Makefile     53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
