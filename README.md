@@ -74,13 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-Total Time: 15 mins
+Total Time: 51 mins
 
-MDX          14 mins         ███████████████████████░░   91.85 %
-Solidity     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+C++          34 mins         ████████████████▓░░░░░░░░   66.44 %
+MDX          14 mins         ███████░░░░░░░░░░░░░░░░░░   28.00 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Solidity     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
