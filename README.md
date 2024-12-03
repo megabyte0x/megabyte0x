@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
-Total Time: 51 mins
+Total Time: 1 hr 40 mins
 
-C++          34 mins         ████████████████▓░░░░░░░░   66.44 %
-MDX          14 mins         ███████░░░░░░░░░░░░░░░░░░   28.00 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Solidity     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+C++          34 mins         ████████▒░░░░░░░░░░░░░░░░   33.80 %
+Other        21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+Lua          17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+MDX          14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Makefile     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:waka-->
