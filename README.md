@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 14 hrs 8 mins
+Total Time: 13 hrs 47 mins
 
-Solidity     12 hrs 25 mins  ██████████████████████░░░   87.79 %
-Makefile     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-TOML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Solidity     12 hrs 4 mins   ██████████████████████░░░   87.46 %
+Makefile     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TOML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
