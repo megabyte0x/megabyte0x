@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 08 December 2024 - To: 15 December 2024
 
-Total Time: 1 hr 55 mins
+Total Time: 41 mins
 
-Solidity      50 mins         ███████████░░░░░░░░░░░░░░   44.16 %
-Markdown      12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Makefile      12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-TOML          11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Erlang        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown      13 mins         ████████░░░░░░░░░░░░░░░░░   31.94 %
+Erlang        8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+Other         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+YAML          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Lua           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
