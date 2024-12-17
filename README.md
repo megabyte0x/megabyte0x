@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-Total Time: 41 mins
+Total Time: 39 mins
 
-Markdown      13 mins         ████████░░░░░░░░░░░░░░░░░   31.94 %
-Erlang        8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-Other         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-YAML          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Lua           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Markdown      13 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
+Lua           8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+Other         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+YAML          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Bash          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
