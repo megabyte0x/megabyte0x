@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 7 hrs 50 mins
+Total Time: 12 hrs 8 mins
 
-Lua          3 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.47 %
-Other        1 hr 48 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
-Markdown     58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Rust         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-MDX          29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Other         5 hrs 16 mins   ███████████░░░░░░░░░░░░░░   43.43 %
+Lua           3 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
+Rust          1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Markdown      1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Bash          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
