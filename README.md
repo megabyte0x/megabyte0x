@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Total Time: 19 hrs 8 mins
+Total Time: 24 hrs 7 mins
 
-Other         9 hrs 54 mins   █████████████░░░░░░░░░░░░   51.77 %
-Lua           4 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
-Rust          2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Markdown      1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Git Config    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Other          13 hrs          █████████████▒░░░░░░░░░░░   53.93 %
+Lua            4 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Rust           1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Markdown       1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+JavaScript     1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
