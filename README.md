@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2025 - To: 21 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-Total Time: 12 hrs 47 mins
+Total Time: 13 hrs 45 mins
 
-Lua            4 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
-Other          3 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-TypeScript     1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-JSON           41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Rust           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Other          4 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   31.80 %
+TypeScript     3 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.24 %
+Lua            3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+JSON           56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+CSS            38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->
