@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2025 - To: 17 February 2025
+From: 11 February 2025 - To: 18 February 2025
 
-Total Time: 13 hrs 17 mins
+Total Time: 7 hrs 7 mins
 
-Other         8 hrs 19 mins   ███████████████▓░░░░░░░░░   62.55 %
-TypeScript    2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-Lua           2 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-Git Config    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other        4 hrs 31 mins   ████████████████░░░░░░░░░   63.58 %
+TypeScript   1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
+Lua          1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
