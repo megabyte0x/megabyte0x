@@ -74,15 +74,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2025 - To: 18 February 2025
+From: 12 February 2025 - To: 19 February 2025
 
-Total Time: 7 hrs 7 mins
+Total Time: 4 hrs 56 mins
 
-Other        4 hrs 31 mins   ████████████████░░░░░░░░░   63.58 %
-TypeScript   1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Lua          1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        3 hrs 23 mins   █████████████████░░░░░░░░   68.56 %
+Lua          57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+TypeScript   34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
