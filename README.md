@@ -23,15 +23,15 @@ Check this -> https://megabyte0x.xyz/work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-Total Time: 4 hrs 56 mins
+Total Time: 1 hr 51 mins
 
-Other        3 hrs 23 mins   █████████████████░░░░░░░░   68.56 %
-Lua          57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-TypeScript   34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        1 hr 31 mins    ████████████████████▓░░░░   82.60 %
+Lua          9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
