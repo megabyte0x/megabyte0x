@@ -6,6 +6,10 @@
 
 Check this -> https://megabyte0x.xyz/work
 
+## Projects
+
+Check this -> https://megabyte0x.xyz/builds
+
 ## My Stack
 
 ![Solidity](https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green)
