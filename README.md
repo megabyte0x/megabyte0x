@@ -27,11 +27,13 @@ Check this -> https://megabyte0x.xyz/builds
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Noir       11 mins         ███████████████████▒░░░░░   77.04 %
+Solidity   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+TOML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
