@@ -27,15 +27,15 @@ Check this -> https://megabyte0x.xyz/builds
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2025 - To: 22 May 2025
+From: 16 May 2025 - To: 23 May 2025
 
-Total Time: 13 hrs 39 mins
+Total Time: 5 hrs 47 mins
 
-TypeScript     6 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.23 %
-Other          3 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Markdown       2 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-HTTP Request   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-JSON           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+TypeScript     3 hrs 21 mins   ██████████████▒░░░░░░░░░░   57.93 %
+Other          1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+Markdown       23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+HTTP Request   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+JSON           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
