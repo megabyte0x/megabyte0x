@@ -29,13 +29,13 @@ Check this -> https://megabyte0x.xyz/builds
 ```txt
 From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 3 hrs 24 mins
+Total Time: 3 hrs 26 mins
 
-Rust         1 hr 35 mins    ███████████▓░░░░░░░░░░░░░   46.83 %
-Other        37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-Markdown     31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Makefile     20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-MDX          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Rust         1 hr 37 mins    ████████████░░░░░░░░░░░░░   47.34 %
+Other        37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+Markdown     31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+Makefile     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+MDX          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
