@@ -27,15 +27,15 @@ Check this -> https://megabyte0x.xyz/builds
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2025 - To: 03 September 2025
+From: 28 August 2025 - To: 04 September 2025
 
-Total Time: 17 hrs 58 mins
+Total Time: 22 hrs 18 mins
 
-TypeScript     11 hrs 47 mins  ████████████████▒░░░░░░░░   65.59 %
-HTTP Request   1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Prisma         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Solidity       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Bash           53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+TypeScript     11 hrs 42 mins  █████████████░░░░░░░░░░░░   52.47 %
+Rust           4 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+HTTP Request   1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Bash           1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Prisma         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
