@@ -27,11 +27,14 @@ Check this -> https://megabyte0x.xyz/builds
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 14 September 2025 - To: 21 September 2025
 
-Total Time: 0 secs
+Total Time: 41 mins
 
-No activity tracked
+Solidity   38 mins         ███████████████████████░░   92.02 %
+Bash       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
