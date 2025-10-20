@@ -27,15 +27,15 @@ Check this -> https://megabyte0x.xyz/builds
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 18 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-Total Time: 27 hrs 43 mins
+Total Time: 25 hrs 18 mins
 
-Solidity     20 hrs 36 mins  ██████████████████▓░░░░░░   74.29 %
-Rust         3 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Makefile     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-TOML         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Bash         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Solidity     18 hrs 10 mins  ██████████████████░░░░░░░   71.83 %
+Rust         3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Makefile     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TOML         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
