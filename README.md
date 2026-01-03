@@ -15,14 +15,9 @@ Check this -> https://megabyte0x.xyz/builds
 ![Solidity](https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green)
 ![NodeJs](https://img.shields.io/badge/NODE_JS-grey?style=for-the-badge&logo=nodedotjs&logoColor=Green)
 ![TypeScript](https://img.shields.io/badge/TS-grey?style=for-the-badge&logo=typescript&logoColor=Green)
+![Rust](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust&logoColor=orange)
 ![Express](https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green)
-![Firebase](https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green)
 ![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow)
-![JS](https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green)
-
-## Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=megabyte0x&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte0x&layout=compact&theme=dark)
 
 <!--START_SECTION:waka-->
 
