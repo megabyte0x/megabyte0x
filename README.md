@@ -22,15 +22,15 @@ Check this -> https://megabyte0x.xyz/builds
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2026 - To: 11 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-Total Time: 23 hrs 39 mins
+Total Time: 22 hrs 24 mins
 
-Other          9 hrs 50 mins         ██████████▒░░░░░░░░░░░░░░   41.60 %
-TypeScript     6 hrs 36 mins         ███████░░░░░░░░░░░░░░░░░░   27.96 %
-Markdown       2 hrs 3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Solidity       1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-JSON           51 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Other          9 hrs 37 mins         ██████████▓░░░░░░░░░░░░░░   42.95 %
+TypeScript     5 hrs 51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+Solidity       2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Markdown       1 hr 40 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+JSON           46 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
