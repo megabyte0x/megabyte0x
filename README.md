@@ -8,7 +8,7 @@ Check this -> https://megabyte0x.xyz/work
 
 ## Projects
 
-- [HealthSync Apple Health app sync](https://web-megabytes-projects.vercel.app/apple-health-app-sync) - iOS HealthKit data sync to a private backend API.
+- [HealthSync Apple Health app sync](https://healthsync.megabyte.sh/apple-health-app-sync) - iOS HealthKit data sync to a private backend API.
 - More builds -> https://megabyte0x.xyz/builds
 
 ## My Stack
@@ -35,4 +35,3 @@ CSS            3 hrs 14 mins         █▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
