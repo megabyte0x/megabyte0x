@@ -23,15 +23,15 @@ Check this -> https://megabyte0x.xyz/work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2026 - To: 05 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 60 hrs 34 mins
+Total Time: 57 hrs 11 mins
 
-Markdown       17 hrs 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 %
-Swift          11 hrs 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-JavaScript     8 hrs 53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Python         3 hrs 41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-CSS            3 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Markdown       16 hrs 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.08 %
+Swift          11 hrs 55 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+JavaScript     8 hrs 53 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+Python         3 hrs 37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+CSS            3 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
