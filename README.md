@@ -1,10 +1,10 @@
-# gm! I'm [Megabyte](https://megabyte0x.xyz/)
+# gm! I'm [Megabyte](https://megabyte.sh/)
 
 *A guy curious about the latest tech and aims to save this generation's time.*
 
 ## Work Experience
 
-Check this -> https://megabyte0x.xyz/work
+Check this -> https://megabyte.sh/work
 
 ## Projects
 
