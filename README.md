@@ -23,15 +23,15 @@ Check this -> https://megabyte.sh/work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 26 July 2026
+From: 20 July 2026 - To: 27 July 2026
 
-Total Time: 6 hrs 38 mins
+Total Time: 4 hrs 37 mins
 
-Markdown      2 hrs 31 mins         █████████▒░░░░░░░░░░░░░░░   37.94 %
-TypeScript    1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-Git Config    45 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Other         35 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-JavaScript    25 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Markdown      2 hrs 17 mins         ████████████▒░░░░░░░░░░░░   49.70 %
+TypeScript    56 mins               █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Other         35 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Cairo         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Git Config    7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
