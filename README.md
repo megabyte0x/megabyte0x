@@ -35,3 +35,5 @@ Swift          1 hr 33 mins          █▒░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"ZtdooyCSVFtdbz5Y4msPuanVyZYV2zaHCJnjZgyVU96"} -->
