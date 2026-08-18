@@ -23,15 +23,15 @@ Check this -> https://megabyte.sh/work
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-Total Time: 29 hrs 42 mins
+Total Time: 25 hrs 10 mins
 
-Markdown       14 hrs 19 mins        ████████████░░░░░░░░░░░░░   48.22 %
-TypeScript     4 hrs 40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-CSS            3 hrs                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Swift          1 hr 52 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Python         1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Markdown       12 hrs                ████████████░░░░░░░░░░░░░   47.70 %
+TypeScript     3 hrs 46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+CSS            3 hrs                 ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Swift          1 hr 52 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Python         1 hr 14 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
