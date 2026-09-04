@@ -8,8 +8,7 @@ Check this -> https://megabyte.sh/work
 
 ## Projects
 
-- [HealthSync Apple Health app sync](https://healthsync.megabyte.sh/apple-health-app-sync) - iOS HealthKit data sync to a private backend API.
-- More builds -> https://megabyte0x.xyz/builds
+https://megabyte0x.xyz/builds
 
 ## My Stack
 
@@ -19,17 +18,3 @@ Check this -> https://megabyte.sh/work
 ![Rust](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust&logoColor=orange)
 ![Express](https://img.shields.io/badge/EXPRESS-grey?style=for-the-badge&logo=EXPRESS&logoColor=Green)
 ![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=Yellow)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 August 2026 - To: 03 September 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<!-- gitarmy-wallet:v1 {"chain":"solana","address":"ZtdooyCSVFtdbz5Y4msPuanVyZYV2zaHCJnjZgyVU96"} -->
