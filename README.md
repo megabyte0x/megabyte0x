@@ -1,6 +1,6 @@
 # gm! I'm [Megabyte](https://megabyte.sh/)
 
-*A guy curious about the latest tech and aims to save this generation's time.*
+*A guy building to get out of the current extractive system.*
 
 ## Work Experience
 
