@@ -2,13 +2,16 @@
 
 *A guy building to get out of the current extractive system.*
 
+- [MacTicker](macticker.app)
+- [Gold To Zcash](goldtozcash.com)
+- [ZIPs Tools](zips.tools)
+- [FinalNotes](finalnotes.page)
+
+
+
 ## Work Experience
 
 Check this -> https://megabyte.sh/work
-
-## Projects
-
-https://megabyte0x.xyz/builds
 
 ## My Stack
 
