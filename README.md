@@ -6,6 +6,7 @@
 - [Gold To Zcash](goldtozcash.com) - Detailed history of money.
 - [ZIPs Tools](zips.tools) - ZIPs reader with better attribution.
 - [FinalNotes](finalnotes.page) - Real event based obituaries comics.
+- [HealthySync](healthysync.app) - Export your Apple HealthApp data to any database you want.
 
 
 
