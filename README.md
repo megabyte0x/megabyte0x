@@ -2,10 +2,10 @@
 
 *A guy building to get out of the current extractive system.*
 
-- [MacTicker](macticker.app)
-- [Gold To Zcash](goldtozcash.com)
-- [ZIPs Tools](zips.tools)
-- [FinalNotes](finalnotes.page)
+- [MacTicker](macticker.app) - Crypto price on your Mac menu bar.
+- [Gold To Zcash](goldtozcash.com) - Detailed history of money.
+- [ZIPs Tools](zips.tools) - ZIPs reader with better attribution.
+- [FinalNotes](finalnotes.page) - Real event based obituaries comics.
 
 
 
